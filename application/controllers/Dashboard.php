@@ -48,7 +48,8 @@ class Dashboard extends CI_Controller
         $teks = (string)$this->input->post('text');
         $aksi = $this->input->post('operation');
         $result = call_user_func($aksi, $teks);
-        var_dump($result);
+        echo $result;
+        return;
 
     }
 }
