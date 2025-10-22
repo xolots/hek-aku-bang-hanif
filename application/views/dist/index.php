@@ -319,7 +319,7 @@
                             class="sidebar-item  ">
                             <a href="Dashboard/ops" class='sidebar-link'>
                                 <i class="bi bi-file-earmark-medical-fill"></i>
-                                <span>Form Layout</span>
+                                <span>Operasi Teks</span>
                             </a>
 
 
